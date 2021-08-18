@@ -13,3 +13,4 @@ KEY BINDINGS:</br>
 RULES: </br>
 - Keep the ball on screen by bouncing it off your paddles. </br>
 - If the user misses the ball, it will add to it's opponent's score.</br>
+- Speed of the ball increases after every bounce off a paddle. </br>
